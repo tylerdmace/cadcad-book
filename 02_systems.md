@@ -1,5 +1,5 @@
 # Systems
-## Identify Systems
+## Identifying Systems
 ### Open & Closed Systems
 #### Exogenous Disturbances
 #### Endogenous Disturbances

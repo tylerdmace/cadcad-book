@@ -3,7 +3,7 @@
 2. [Systems](02_systems.md)
     1. [Identifying Systems](02_systems.md)
         1. [Open & Closed Systems](02_systems.md)
-            1. [Exogenous Disturbances](02_systems.md)S
+            1. [Exogenous Disturbances](02_systems.md)
             2. [Endogenous Disturbances](02_systems.md)
         2. [Open & Closed Loops](02_systems.md)
             1. [Feedback Loops](02_systems.md)

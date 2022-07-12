@@ -18,5 +18,3 @@
 ### Plants
 ### Sensors
 ### Errors
-
-[Next >](03_block_diagrams.md)

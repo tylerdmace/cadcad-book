@@ -1,0 +1,6 @@
+- What are systems?
+- What are complex systems?
+- Complex, adaptive, dynamic, oh my!
+- Characteristics of a complex system? nonlinearity, feedback loops, emergence, self-organization, and adaptation
+- Complexity vs reductionism as an observational emphasis
+- Dynamics, Constraints, boundaries, homeostasis

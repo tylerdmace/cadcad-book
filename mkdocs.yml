@@ -1,0 +1,10 @@
+nav:
+    - "Contents": index.md
+    - 01_introduction.md
+    - 02_systems.md
+    - 03_block_diagrams.md
+    - 04_simulation_experimentation.md
+    - 05_cadcad.md
+    - 06_applied_cadcad.md
+    - 07_bibliography.md
+    - 08_glossary.md

@@ -1,1 +1,2 @@
 pyviz_comms==2.2.1
+matplotlib==3.6.0

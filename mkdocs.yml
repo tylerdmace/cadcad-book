@@ -1,5 +1,5 @@
 nav:
-    - "Preface": index.md
+    - index.md
     - 00_contents.md
     - 01_introduction.md
     - 02_systems.md

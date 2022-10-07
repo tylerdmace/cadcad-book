@@ -1,5 +1,6 @@
 nav:
-    - "Contents": index.md
+    - "Preface": index.md
+    - 00_contents.md
     - 01_introduction.md
     - 02_systems.md
     - 03_block_diagrams.md

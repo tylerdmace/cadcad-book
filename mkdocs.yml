@@ -1,6 +1,0 @@
-theme:
-    name: material
-    palette:
-        scheme: slate
-    features:
-        - toc.integrate
